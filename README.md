@@ -44,8 +44,9 @@ sample images and dataset details are provided in the `data/` directory.
 Key plots and numerical summaries are available in the `results/` directory.
 
 ## Paper Status
-This work is currently under publication. The code in this repository corresponds
-to the experimental setup and results described in the research paper.
+Published
+[Research Paper](https://ieeexplore.ieee.org/document/11256774)
+@ Conference: 2025 IEEE Madhya Pradesh Section Conference (MPCON)
 
 ## Technologies Used
 Matlab, Photoshop
