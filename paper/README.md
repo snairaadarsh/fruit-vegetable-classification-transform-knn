@@ -12,5 +12,6 @@ This work presents a transform-based approach for the automated classification o
 **Status:**  
 Published
 [Research Paper](https://ieeexplore.ieee.org/document/11256774)
-Conference: 2025 IEEE Madhya Pradesh Section Conference (MPCON)
+@ Conference: 2025 IEEE Madhya Pradesh Section Conference (MPCON)
+
 
